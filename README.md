@@ -1,8 +1,10 @@
 # ScratchV2018
 Scratchoppgaver vår 2018
 
-# Uke 1
+# Uke 1 og 2
 Introdukson til Scratch og et enkelt Pokemon-spill.
+
+Ferdig prosjekt: https://scratch.mit.edu/projects/203711468/
 
 En variant av Flyvende katt som er laget tidligere.
 Spilleren starter med en Zubat. Tre ulike typer frukt kommer flyvende inn fra venstre.
